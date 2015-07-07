@@ -1,0 +1,7 @@
+parameters:
+#    bamboo_lab_piwik_tracker.example.class: BambooLab\PiwikTracker\PiwikTrackerBundle\Example
+
+services:
+#    bamboo_lab_piwik_tracker.example:
+#        class: %bamboo_lab_piwik_tracker.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,23 @@
+{
+    "name": "BambooLab/symphony-piwik-tracker",
+    "description": "Symphony2 bundle for Piwik Analytics Tracking API",
+    "keywords": ["symphony2", "piwik","tracker","analytics"],
+    "homepage": "http://piwik.org",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Yaroslav O Golub",
+            "email": "yaroslav.help@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "yaroslav.help@gmail.com"
+    },
+    "autoload": {
+        "classmap": ["."]
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "piwik/piwik-php-tracker": "*"
+    }
+}

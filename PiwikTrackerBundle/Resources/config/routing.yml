@@ -1,0 +1,3 @@
+bamboo_lab_piwik_tracker_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: BambooLabPiwikTrackerBundle:Default:index }
